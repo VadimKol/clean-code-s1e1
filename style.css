@@ -39,9 +39,9 @@
 }
 .incomplete,
 .completed {
-    list-style: none;
-    margin:0;
-    padding: 0px;
+  list-style: none;
+  margin:0;
+  padding: 0px;
 }
 .task,
 .check,
