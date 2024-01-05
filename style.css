@@ -18,7 +18,8 @@
 }
 
 @media (max-width:768px) {
-  .desc { text-align: center;
+  .desc {
+    text-align: center;
   }
 }
 .main {
