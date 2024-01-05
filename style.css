@@ -17,7 +17,7 @@
   font-family: fantasy, cursive;
 }
 
-@media (max-width:768px) {
+@media (max-width: 768px) {
   .desc {
     text-align: center;
   }
@@ -39,8 +39,8 @@
 }
 .incomplete,
 .completed {
-  list-style:none;
-  margin:0;
+  list-style: none;
+  margin: 0;
   padding: 0px;
 }
 .task,
@@ -48,7 +48,7 @@
 .add,
 .edit,
 .delete {
-  outline:none;
+  outline: none;
 }
 .add,
 .edit,
@@ -148,14 +148,14 @@
 /* Edit Task */
 .incomplete .task,
 .completed .task {
-  display:none
+  display: none
 }
 
 .edit-mode .task {
-  display:inline-block;
-  width:224px
+  display: inline-block;
+  width: 224px
 }
 
 .edit-mode .for-task {
-  display:none;
+  display: none;
 }
