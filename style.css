@@ -92,7 +92,7 @@
 }
 
 /* New Task */
-.add-task .title {
+.title:first-child {
   display: block;
   margin: 0 0 20px;
 }
